@@ -1,8 +1,8 @@
-# React + Vite + Three.js
+# Haunted House, using Three.js, following threejs-journey.com/
 
 - **View it at:** https://haunted.pages.dev/
   - Debug UI:  https://haunted.pages.dev/debug
-- **Usage:** run `npx degit https://github.com/ben-xD/react-vite-threejs#main project-name` to create a folder with this template.
+- **Usage:** run `npx degit https://github.com/ben-xD/threejs-haunted-house#main project-name` to create a folder with this template.
   - Pre-requisites: [install pnpm](https://pnpm.io/installation)
   - Install dependencies: run `pnpm install`
   - Start application: run `pnpm dev`
